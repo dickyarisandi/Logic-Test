@@ -95,3 +95,7 @@ func FizzBuzz(n int) []string {
 
 	return result
 }
+
+func Kosong() {
+	return
+}
